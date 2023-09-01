@@ -1,0 +1,16 @@
+:root{
+    --backgroundPage: hsl(235, 18%, 26%);
+    --fontSizeDefaultParagraph: 16px;
+    --titleColor: hsl(234, 29%, 20%);
+    --DarkSlateGrey: hsl(234, 29%, 20%);
+    --tomato: hsl(4, 100%, 67%);
+    --Grey: hsl(231, 7%, 60%);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
